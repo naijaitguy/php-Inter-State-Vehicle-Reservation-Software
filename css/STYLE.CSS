@@ -1,0 +1,37 @@
+/* CSS Document */
+
+
+.cont{ background-color:#CDCDCD;}
+	
+		
+		.ticketing{ margin:10px;}
+		
+		.dashboard{ margin:10px;}
+		 a {color:#FFF;}
+		 a:hover{ background-color:#000;}
+		 
+		 .wrapper{
+	
+			 padding:10px;
+			 margin:7px;
+	border: medium solid #000;
+	border-bottom-left-radius:70px;
+	
+	border-top-right-radius:70px;
+	background-color:#999;
+	color:#FFF;
+		 }
+.manifest {
+	background-color:#FFF;
+	padding:10px;
+	margin:7px;
+	border: medium solid #000;
+	border-bottom-left-radius:70px;
+	
+	border-top-right-radius:70px;
+			 }
+		 
+.body { background-image:url(img/myicon.png); font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ; font-weight:lighter;
+color:#000;
+}
+.user{ color:#F60; font-size:20px;}
